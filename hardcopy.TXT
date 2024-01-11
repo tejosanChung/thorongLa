@@ -1,0 +1,7 @@
+
+TJS.2023.PC@DESKTOP-8MIO4NO MINGW64 /d/ThorongLa
+$ git init
+Initialized empty Git repository in D:/ThorongLa/.git/
+
+TJS.2023.PC@DESKTOP-8MIO4NO MINGW64 /d/ThorongLa (master)
+$
