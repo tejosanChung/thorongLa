@@ -1,3 +1,4 @@
+0111
 
 TJS.2023.PC@DESKTOP-8MIO4NO MINGW64 /d/ThorongLa
 $ git init
